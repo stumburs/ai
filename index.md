@@ -48,6 +48,10 @@ Imagine you go to a restaurant and ask the waiter for a burger, but with extra c
 
 AI works the same way, except the chain of people behind it is mostly invisible. Models are trained on enormous amounts of text, images, code, and music made by real people: writers, artists, photographers, and developers. A lot of that data was collected without asking them, and often by dubious means, with scraping at a scale that most of those creators never agreed to and definitely weren't paid for. When you type a prompt and get a result, you're getting the output of all that work, but none of those people are credited, and most of them don't even know they contributed.
 
+Visual and audio media are where I draw a harder line. With text or code, you can read every line, change it, restructure it, and rewrite the parts that don't work, so the result can be reshaped by you. With a generated image, video, or song, you usually can't. You write a description, the model produces something, and if you don't like it you generate it again. Picking your favorite out of a hundred attempts is closer to curating than creating. You didn't paint the picture, compose the melody, or perform the vocals, and you couldn't explain how any part of it was made. I think that makes calling it "mine" much harder to justify.
+
+It also matters more here because these models were trained on the work of illustrators, photographers, musicians, and voice actors, and the output can imitate a specific artist's style closely. If I generate a picture "in the style of" someone who spent years developing that style, the result owes much more to them than to my prompt. I'm not saying AI media can never be used, for example as a placeholder or for a joke, but presenting it as your own artwork or music, especially when you're selling it or entering it in a contest, is something I find hard to defend.
+
 I'm not saying you can't use AI, since I do myself. I'm saying that the amount of credit you can take depends on how much you actually did. If you wrote the design, made the decisions, reviewed and fixed the output, and rewrote what didn't fit, then you have a real claim to the result, and that's the difference between the "junior developer" approach I described [above](#ai-assisted-development) and just accepting whatever comes out. If all you did was ask for it, then you ordered a burger.
 
 That's why I'm careful with the word "my" when I talk about AI-assisted code, and why I will try to, going forward, be open about where AI was involved. The final result can be partly mine, but it's never entirely mine.
@@ -59,6 +63,14 @@ I have never paid for an AI subscription, and I most likely never will. One reas
 The other reason is more personal, and it's a bit of a rant. At the start of 2025, I upgraded my PC. I bought only 16 GB of DDR5 RAM for around 60 euros, thinking I'd just buy more later. Then the "rampocalypse" happened, with AI companies' demand for memory pushing prices through the roof, and the same kind of RAM now costs around 400 euros. The AI bubble has made it much harder for regular people to afford computer components at reasonable prices, and I don't want to give money to the companies that have indirectly caused that.
 
 To be fair, AI isn't all bad. It has done real good for humanity, in research, medicine, and science, where it helps analyze data and find things that humans would take far longer to find. I'm not against the technology itself. I'm against the hype, the low-effort use of it, and the way the industry's appetite has affected everyone else.
+
+### Outsourcing thinking
+
+What bothers me almost as much as the slop is how some people use AI day to day. I see people asking a chatbot what they should have for dinner, whether they should text someone back, whether they should take a job, or what they should think about something. Using AI as a tool is one thing, but turning it into your brain is another.
+
+Part of this is just convenience, and I get the appeal, since making decisions is tiring. But deciding things, even small things, is a skill, and skills fade when you stop using them. There are people, hopefully not many, losing the habit of thinking for themselves, and of trusting a chatbot's answer more than their own judgment, or even trained professionals.
+
+The bigger problem is the belief that AI is always right. These models can and are confidently wrong more often that most realize, they make up facts, sources, and quotes, and agree with whatever you say. They are built to sound sure of themselves, which isn't the same as being correct. If you can't check the answer, you can't tell the difference, and a lot of people never check.
 
 ### Super Intelligence
 
