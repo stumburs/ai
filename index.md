@@ -82,7 +82,7 @@ JavaScript, my beloved (not). It was famously created in a very short amount of 
 
 #### Dependencies
 
-A new project can pull in hundreds or thousands of packages through `node_modules`, most of which you never chose directly yourself. Tiny packages that do one trivial thing are common, and when one of them disappears or gets compromised, a large part of the ecosystem can break. A brand new React project is often **hundreds of megabytes** large. That's just insane. This entire project, including the page you are reading right now, is **76.1 KB**, including the git history, and dev dependencies which are not necessary for the site to run.
+A new project can pull in hundreds or thousands of packages through `node_modules`, most of which you never chose directly yourself. Tiny packages that do one trivial thing are common, and when one of them disappears or gets compromised, a large part of the ecosystem can break. A brand new React project is often **hundreds of megabytes** large. That's just insane. This entire project, including the page you are reading right now, is **~92.6 KB**, including the git history, and dev dependencies which are not necessary for the site to run.
 
 #### Electron (and similar)
 
